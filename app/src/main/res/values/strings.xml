@@ -1,0 +1,1005 @@
+<resources>
+    <string name="app_name">NoteFy</string>
+    <string name="title_activity_main">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Upload File</string>
+    <string name="title_notifications">About Us</string>
+    <string name="title_activity_upload">Upload File</string>
+
+
+    <string-array name="dept">
+        <item>Computer Science and Engineering</item>
+        <item>Information Science and Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Telecommunication Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Bio Technology</item>
+        <item>Industrial Engineering and Management</item>
+        <item>Civil Engineering</item>
+        <item>Electrical and Electronics Engineering</item>
+        <item>Electronics and Instrumentation Engineering</item>
+        <item>Medical Electronics</item>
+    </string-array>
+
+    <string-array name="semester">
+        <item>1st Semester</item>
+        <item>2nd Semester</item>
+        <item>3rd Semester</item>
+        <item>4th Semester</item>
+        <item>5th Semester</item>
+        <item>6th Semester</item>
+        <item>7th Semester</item>
+        <item>8th Semester</item>
+    </string-array>
+
+    <string name="dept0">Computer Science and Engineering</string>
+    <string-array name="semester10">
+        <item>Engineering Mathematics I</item>
+        <item>Engineering Chemistry </item>
+        <item>Basic Electrical Engineering</item>
+        <item>Elements of Engineering Drawing</item>
+        <item>Engineering Mechanics</item>
+        <item>EnvironmentalStudies</item>
+        <item>Constitution of India and Professional Ethics</item>
+    </string-array>
+    <string-array name="semester20">
+        <item>Engineering Mathematics II</item>
+        <item>Engineering Physics</item>
+        <item>Elements Of Electronics Engineering</item>
+        <item>Elements Of Mechanical Engineeing</item>
+        <item>C Programming</item>
+        <item>Biology For Engineers</item>
+        <item>Personality Development And Communiction</item>
+    </string-array>
+    <string-array name="semester30">
+        <item>Discrete mathematics</item>
+        <item>Data Structures</item>
+        <item>Programming With C++</item>
+        <item>Web Programming</item>
+        <item> Computer Organization And Architecture</item>
+    </string-array>
+    <string-array name="semester40">
+        <item>Data Communication</item>
+        <item>Operating System</item>
+        <item>Database Management Systems</item>
+        <item>OOPS with Java</item>
+        <item>Linear Algebra</item>
+    </string-array>
+    <string-array name="semester50">
+        <item>Computer Networks</item>
+        <item>Software Engineering</item>
+        <item>Internet Of Things</item>
+        <item>Advanced Java</item>
+        <item>Programming in Python</item>
+        <item>Analysis And Design Of Algorithms</item>
+        <item>Advanced Java</item>
+        <item>C#.net</item>
+
+    </string-array>
+    <string-array name="semester60">
+        <item>Object Oriented Modeling and Design</item>
+        <item>Artificial Intelligence</item>
+        <item>Cloud Computing</item>
+        <item>Mobile App Development</item>
+        <item>Theoretical Foundations of Computations</item>
+        <item>Software Project Management</item>
+        <item>Cryptograhy and Network Security</item>
+        <item>Fuzzy Logic and Neural Networks</item>
+        <item>Mobile Adhoc Networks</item>
+        <item>System Software and Compiler Design</item>
+        <item>Storage Area Networks</item>
+
+
+    </string-array>
+    <string-array name="semester70">
+        <item>Probabiity, Statistics and Queuing</item>
+        <item>Software Testing</item>
+        <item>Cyber Forensics</item>
+        <item>Multicore Programming </item>
+        <item>Big Data and Analytics</item>
+        <item>Advanced Web Technologies</item>
+        <item>Computer Graphics</item>
+        <item>Data Science using R</item>
+        <item>Digital Image Processing </item>
+        <item>Distributed Operating Systems</item>
+        <item>Multimedia Communications</item>
+        <item>Software Quality Metrics</item>
+        <item>Bio-Inspired Algorithms</item>
+        <item>HSS -1 Professsional Ethics</item>
+
+    </string-array>
+    <string-array name="semester80">
+        <item>Green Computing</item>
+        <item>HSS - 3 (Professional Skills)</item>
+
+    </string-array>
+    <string name="dept1">Information Science and Engineering</string>
+    <string-array name="semester11">
+        <item>Engineering Mathematics I</item>
+        <item>Engineering Chemistry </item>
+        <item>Basic Electrical Engineering</item>
+        <item>Elements of Engineering Drawing</item>
+        <item>Engineering Mechanics</item>
+        <item>EnvironmentalStudies</item>
+        <item>Constitution of India and Professional Ethics</item>
+    </string-array>
+    <string-array name="semester21">
+        <item>Engineering Mathematics II</item>
+        <item>Engineering Physics</item>
+        <item>Elements Of Electronics Engineering</item>
+        <item>Elements Of Mechanical Engineeing</item>
+        <item>C Programming</item>
+        <item>Biology For Engineers</item>
+        <item>Personality Development And Communiction</item>
+    </string-array>
+    <string-array name="semester31">
+        <item>Discrete mathematics</item>
+        <item>Data Structures with C</item>
+        <item>Programming With C++</item>
+        <item>Theoretical Foundations of Computations</item>
+        <item> Computer Organization and Embedded Systems</item>
+    </string-array>
+    <string-array name="semester41">
+        <item>Unix System Programming</item>
+        <item>Analysis and Design of Algorithms</item>
+        <item>Probability,Statistics and Queuing for Engineers</item>
+        <item>Operating System</item>
+        <item>Linear Algebra</item>
+    </string-array>
+    <string-array name="semester51">
+        <item>Programming with Java</item>
+        <item>Database Management Systems</item>
+        <item>Data Communication and Networking</item>
+        <item>Web Programming</item>
+        <item>Internet of Things</item>
+        <item>Data Mining</item>
+        <item>Python Programming</item>
+        <item>Artificial Intelligence</item>
+
+    </string-array>
+    <string-array name="semester61">
+        <item>Software Engineering and Object Oriented Design</item>
+        <item>Computer Networks and Security</item>
+        <item>Entreprenaurship and Management</item>
+        <item>C# and .NET</item>
+        <item>Social Network Analysis</item>
+        <item>Computer Networks </item>
+        <item>Virtualization and Cloud Security</item>
+        <item>Machine Learning</item>
+        <item>Parallel Distributed Computations through Java</item>
+
+
+    </string-array>
+    <string-array name="semester71">
+        <item>Mobile Application Development</item>
+        <item>Mobile Computing</item>
+        <item>Indian Cyber Law and IT</item>
+        <item>Advanced Web Programming</item>
+        <item>Storage Area Networks</item>
+        <item>Cryptographic Techniques and Security</item>
+        <item>Foundation of Data Science</item>
+        <item>Machine Learning</item>
+        <item>Information Security</item>
+
+
+    </string-array>
+    <string-array name="semester81">
+        <item>Green Computing</item>
+        <item>HSS-Software Project Management and Finance</item>
+        <item>Web Programming and Internet Applications</item>
+        <item>Big Data Analytics</item>
+
+    </string-array>
+
+    <string name="dept2"> Mechanical Engineering</string>
+    <string-array name="semester12">
+        <item>Engineering Mathematics I</item>
+        <item>Engineering Chemistry </item>
+        <item>Basic Electrical Engineering</item>
+        <item>Elements of Engineering Drawing</item>
+        <item>Engineering Mechanics</item>
+        <item>EnvironmentalStudies</item>
+        <item>Constitution of India and Professional Ethics</item>
+    </string-array>
+    <string-array name="semester22">
+        <item>Engineering Mathematics II</item>
+        <item>Engineering Physics</item>
+        <item>Elements Of Electronics Engineering</item>
+        <item>Elements Of Mechanical Engineeing</item>
+        <item>C Programming</item>
+        <item>Biology For Engineers</item>
+        <item>Personality Development And Communiction</item>
+    </string-array>
+    <string-array name="semester32">
+        <item>Engineering Mathematics 3</item>
+        <item>Material Science And Metallurgy</item>
+        <item>Strength of Material</item>
+        <item>Foundry and Welding Technology</item>
+        <item>Basic  Thermodynamics</item>
+        <item>Fluid Mechanics</item>
+    </string-array>
+    <string-array name="semester42">
+        <item>Engineering Mathematics 4</item>
+        <item>Applied Thermodynamics</item>
+        <item>Kinematics of Machines</item>
+        <item>Design of Machine Elements 1</item>
+        <item>Machine Tools and Machining</item>
+        <item>Mechanical Measurements and Metrology</item>
+    </string-array>
+    <string-array name="semester52">
+        <item>Management and Entrepreneurship</item>
+        <item>Design of Machine Elements 2</item>
+        <item>Computer Aided Machine Drawing</item>
+        <item>Dynamics of Machines</item>
+        <item>Fundamentals of Heat Transfer</item>
+        <item>Analysis And Design Of Algorithm</item>
+        <item>Theory of Elasticity</item>
+        <item>Non Traditional Machining</item>
+        <item>Advanced Material Technology</item>
+        <item>Incompressible Fluid Dynamics</item>
+        <item>Energy Engineering</item>
+        <item>Statistical Quality Control</item>
+        <item>Applied Electronics and Microprocessors</item>
+        <item>Biomechanics of Human Movement</item>
+        <item>I.C Engines</item>
+
+    </string-array>
+    <string-array name="semester62">
+        <item>Turbo Mechanics</item>
+        <item>Mechanical Vibrations</item>
+        <item>Modelling and Finite Element Analysis</item>
+        <item>Metal Forming</item>
+        <item>Control Engineering</item>
+        <item>Design Lab</item>
+        <item>Theory of Plasticity</item>
+        <item>Fundamentals of Robotics</item>
+        <item>Composite Material Technology</item>
+        <item>Surface Engineering</item>
+        <item>Computational Fluid Dynamics</item>
+        <item>Renewable Energy and Sustainability</item>
+        <item>Production and Operation Management</item>
+        <item>CAD/CAM</item>
+    </string-array>
+    <string-array name="semester72">
+        <item>Mechatronics and Automation</item>
+        <item>Project Management and Financial Accounting</item>
+        <item>Fracture Mechanics</item>
+        <item>Advanced Robotics</item>
+        <item>Additive Manufacturing</item>
+        <item>Hydraulics and Pneumatics</item>
+        <item>Optimization</item>
+        <item>Design of Thermal Systems</item>
+        <item>Computer Integrated Manufacturing</item>
+        <item>Political Science In Engineering</item>
+        <item>Computer Graphics</item>
+        <item>Tribology and Bearing Design</item>
+        <item>Tool Engineering Design</item>
+        <item>Product Design and Manufacturing</item>
+        <item>Non-destructive Testing</item>
+        <item>Experimental Thermal and Fluid Systems</item>
+        <item>Refrigeration and Air Conditioning</item>
+        <item>Engineering System Design</item>
+        <item>Human Resource Management</item>
+        <item>Artificial Intelligence</item>
+        <item>Institutional Elective</item>
+        <item>Numerical Analysis Lab</item>
+        <item>I.C Engineering Lab</item>
+
+    </string-array>
+    <string-array name="semester82">
+        <item>Operations Research</item>
+        <item>Multi Body Dynamics</item>
+        <item>Machine Tool Design</item>
+        <item>Design of Experiment</item>
+        <item>Advanced Material Characterization Techniques</item>
+        <item>Gas Dynamics</item>
+        <item>Advanced Heat Transfer</item>
+        <item>Organizational Behavior</item>
+        <item>Management Information Systems</item>
+        <item>Automotive Engineering</item>
+        <item>Institutional Elective</item>
+
+    </string-array>
+    <string name="dept3">Telecommunication Engineering</string>
+    <string-array name="semester13">
+        <item>Engineering Mathematics I</item>
+        <item>Engineering Chemistry </item>
+        <item>Basic Electrical Engineering</item>
+        <item>Elements of Engineering Drawing</item>
+        <item>Engineering Mechanics</item>
+        <item>EnvironmentalStudies</item>
+        <item>Constitution of India and Professional Ethics</item>
+    </string-array>
+    <string-array name="semester23">
+        <item>Engineering Mathematics II</item>
+        <item>Engineering Physics</item>
+        <item>Elements Of Electronics Engineering</item>
+        <item>Elements Of Mechanical Engineeing</item>
+        <item>C Programming</item>
+        <item>Biology For Engineers</item>
+        <item>Personality Development And Communiction</item>
+    </string-array>
+    <string-array name="semester33">
+        <item>Advanced Mathematics</item>
+        <item>Linear Circuit Analysis</item>
+        <item>Analog Microelectronics</item>
+        <item>Digital Electronics</item>
+        <item>Fields and Waves</item>
+        <item>Simulation Laboratory-I</item>
+
+    </string-array>
+    <string-array name="semester43">
+        <item>Discrete Mathematics and Probability</item>
+        <item>Fundamentals of HDL </item>
+        <item>Analog Integrated Circuits</item>
+        <item>Microcontrollers</item>
+        <item>Continuous Time Signal Processing</item>
+        <item>Simulation Laboratory-II</item>
+    </string-array>
+    <string-array name="semester53">
+        <item>Analog Communication</item>
+        <item>Discrete Time Signal Processing</item>
+        <item>Computer Communication Networks – I</item>
+        <item>Linear Control Systems</item>
+        <item>Fundamentals of VLSI</item>
+        <item>Simulation Laboratory-III</item>
+        <item>Digital System Design</item>
+        <item>OS Operating Systems</item>
+        <item>DSP Architecture</item>
+
+    </string-array>
+    <string-array name="semester63">
+        <item>Digital Communication</item>
+        <item>Computer Communication Networks –II</item>
+        <item>Transmission Lines and Antennas</item>
+        <item>Information Theory and Coding</item>
+        <item>Simulation Laboratory-IV</item>
+        <item>System Design using FPGA OP OOPS and Data Structures</item>
+        <item>Image Processing 1</item>
+        <item>Electrical Cluster Elective -I</item>
+
+    </string-array>
+    <string-array name="semester73">
+        <item>Microwaves and Radar</item>
+        <item>Multimedia Communication</item>
+        <item>Wireless Communication </item>
+        <item>Project for Community Service </item>
+        <item>ASIC Design 3</item>
+        <item>Optical Fiber and Satellite Communication</item>
+        <item>Speech Processing AC Advanced coding theor</item>
+        <item>Electrical Cluster Elective -II</item>
+        <item>Institute Elective – I</item>
+
+    </string-array>
+    <string-array name="semester83">
+        <item>Sustainable Telecommunication Networks</item>
+        <item>Project Management and Finance</item>
+        <item>HSS-Institute Elective</item>
+        <item>HSS- Cluster Core: IPR and Cyber Law </item>
+        <item>Institute Elective – II</item>
+
+
+    </string-array>
+    <string name="dept4">Chemical Engineering</string>
+    <string-array name="semester14">
+        <item>Engineering Mathematics I</item>
+        <item>Engineering Chemistry </item>
+        <item>Basic Electrical Engineering</item>
+        <item>Elements of Engineering Drawing</item>
+        <item>Engineering Mechanics</item>
+        <item>EnvironmentalStudies</item>
+        <item>Constitution of India and Professional Ethics</item>
+    </string-array>
+    <string-array name="semester24">
+        <item>Engineering Mathematics II</item>
+        <item>Engineering Physics</item>
+        <item>Elements Of Electronics Engineering</item>
+        <item>Elements Of Mechanical Engineeing</item>
+        <item>C Programming</item>
+        <item>Biology For Engineers</item>
+        <item>Personality Development And Communiction</item>
+    </string-array>
+    <string-array name="semester34">
+        <item>Applied Mathematics</item>
+        <item>Chemical Technology </item>
+        <item>Fluid Mechanics</item>
+        <item>Technical Chemistry</item>
+        <item>Mechanical Operations</item>
+        <item>Material Science and Biomaterials</item>
+    </string-array>
+    <string-array name="semester44">
+        <item>Statistics and Probability </item>
+        <item>Process Equipment</item>
+        <item>Drawing Process Engineering</item>
+        <item>Thermodynamics</item>
+        <item>Process Heat Transfer</item>
+        <item>Process Principles and Calculation</item>
+        <item>Analytical Instruments for Analysis</item>
+
+    </string-array>
+    <string-array name="semester54">
+        <item>Chemical Reaction Engineering-I</item>
+        <item>Mass Transfer-</item>
+        <item>Chemical Equipment Design</item>
+        <item>Pollution Control and Management</item>
+        <item>Food Engineering</item>
+        <item>Petroleum Refining</item>
+        <item>Nano Materials and Technology</item>
+        <item>Polymer Materials and Processing</item>
+
+    </string-array>
+    <string-array name="semester64">
+        <item>Chemical Reaction Engineering-II</item>
+        <item>Process Control Engineering</item>
+        <item>Mass Transfer-II</item>
+        <item>Transport Phenomena</item>
+        <item>Numerical Techniques in Chemical Engineering</item>
+        <item>Operations Research</item>
+        <item>Computer Interface in Chemical Engineerin</item>
+        <item>Interfacial Phenomena</item>
+
+
+    </string-array>
+    <string-array name="semester74">
+        <item>Chemical Plant Utilities</item>
+        <item>Biochemical Engineering</item>
+        <item>Chemical Process Equipment Design and Drawing</item>
+        <item>Chemical Process Modelling and Simulation</item>
+        <item>Economics in Engineering</item>
+        <item>Finite Element Analysis</item>
+        <item>Fermentation Technology</item>
+        <item>Smart Materials</item>
+        <item>SKADA and PLC</item>
+        <item>Institutional Elective Courses</item>
+        <item>Non-Conventional Energy Technology</item>
+        <item>Composite Materials</item>
+
+    </string-array>
+    <string-array name="semester84">
+        <item>Project Management and Finance</item>
+        <item>Waste Water treatment</item>
+        <item>Pilot Plant Studies</item>
+
+
+    </string-array>
+    <string name="dept5">Bio Technology</string>
+    <string-array name="semester15">
+        <item>Engineering Mathematics I</item>
+        <item>Engineering Chemistry </item>
+        <item>Basic Electrical Engineering</item>
+        <item>Elements of Engineering Drawing</item>
+        <item>Engineering Mechanics</item>
+        <item>EnvironmentalStudies</item>
+        <item>Constitution of India and Professional Ethics</item>
+    </string-array>
+    <string-array name="semester25">
+        <item>Engineering Mathematics II</item>
+        <item>Engineering Physics</item>
+        <item>Elements Of Electronics Engineering</item>
+        <item>Elements Of Mechanical Engineeing</item>
+        <item>C Programming</item>
+        <item>Biology For Engineers</item>
+        <item>Personality Development And Communiction</item>
+    </string-array>
+    <string-array name="semester35">
+        <item>Basics of Biomolecules</item>
+        <item>Cell and Molecular Biology</item>
+        <item>Microbiology </item>
+        <item>Process Engg Thermodynamics</item>
+        <item>Unit operations-1</item>
+        <item>Applied Mathematics</item>
+    </string-array>
+    <string-array name="semester45">
+        <item>Biochemistry and Bioenergetics</item>
+        <item>Unit Operations-2</item>
+        <item>Engg Maths-IV (Biostatistics and probability)</item>
+        <item>Environmental Biotechnology</item>
+        <item>Basics of Computer applications</item>
+        <item>Process principles and calculations</item>
+    </string-array>
+    <string-array name="semester55">
+        <item>Bioanalytical Techniques</item>
+        <item>Bioinformatics</item>
+        <item>Reaction Engineering</item>
+        <item>Genetic Engineering</item>
+        <item>Immunotechnology</item>
+        <item>Animal Biotechnology</item>
+        <item>Microbial Biotechnology</item>
+        <item>Human Physiology</item>
+        <item>Plant Biotechnology</item>
+
+    </string-array>
+    <string-array name="semester65">
+        <item>Bioprocess Technology</item>
+        <item>Enzyme Technology and Kinetics</item>
+        <item>Genomics and Proteomics</item>
+        <item>Pharmaceutical Biotechnology</item>
+        <item>Process Control and Automation</item>
+        <item>Metabolic Engineering</item>
+        <item>Bioinstrumentation and Biosensors</item>
+        <item>Genome Informatics</item>
+        <item>Food Biotechnology</item>
+
+    </string-array>
+    <string-array name="semester75">
+        <item>Institutional Elective-I</item>
+        <item>Bioprocess Equipment Design and CAED</item>
+        <item>Process Plant design and Economics</item>
+        <item>Bioethics, Biosafety and IPR</item>
+        <item>Industrial Biotechnology</item>
+        <item>Aqua and Marine BT</item>
+        <item>Biomaterials and Tissue Engineering</item>
+        <item>Clinical Data Management</item>
+        <item>Biotechnology for society</item>
+
+
+    </string-array>
+    <string-array name="semester85">
+        <item>Institutional Elective-II</item>
+        <item>Project management and Finance (HSS Core)</item>
+        <item>Transport Phenomena</item>
+        <item>Nano-Biotechnology</item>
+        <item>Data Analytics</item>
+        <item>Advanced Programming</item>
+        <item>Management and Entrepreneurship</item>
+
+
+    </string-array>
+    <string name="dept6">Industrial Engineering and Management</string>
+    <string-array name="semester16">
+        <item>Engineering Mathematics I</item>
+        <item>Engineering Chemistry </item>
+        <item>Basic Electrical Engineering</item>
+        <item>Elements of Engineering Drawing</item>
+        <item>Engineering Mechanics</item>
+        <item>EnvironmentalStudies</item>
+        <item>Constitution of India and Professional Ethics</item>
+    </string-array>
+    <string-array name="semester26">
+        <item>Engineering Mathematics II</item>
+        <item>Engineering Physics</item>
+        <item>Elements Of Electronics Engineering</item>
+        <item>Elements Of Mechanical Engineeing</item>
+        <item>C Programming</item>
+        <item>Biology For Engineers</item>
+        <item>Personality Development And Communiction</item>
+    </string-array>
+    <string-array name="semester36">
+        <item>HIGHER ENGINEERING MATHEMATICS</item>
+        <item>PRODUCTION TECHNOLOGY-I </item>
+        <item>STRENGTH OF MATERIALS</item>
+        <item>MECHANICAL MEASUREMENTS AND METROLOGY</item>
+        <item>ELEMENTS OF ENERGY SYSTEMS</item>
+        <item>COMPUTER AIDED MACHINE DRAWING</item>
+    </string-array>
+    <string-array name="semester46">
+        <item>INDUSTRIAL ENGINEERING</item>
+        <item>STATISTICS FOR ENGINEERS</item>
+        <item>MANAGEMENT AND ENTREPRENEURSHIP</item>
+        <item>PRODUCTION TECHNOLOGY-II</item>
+        <item>MACHINE DESIGN</item>
+        <item>MATERIAL SCIENCE AND METALLURGY</item>
+    </string-array>
+    <string-array name="semester56">
+        <item>COMPUTERS IN MANUFACTURING</item>
+        <item>OPERATIONS RESEARCH</item>
+        <item>QUALITY ASSURANCE AND RELIABILITY</item>
+        <item>ENGINEERING ECONOMY</item>
+        <item>FACILITIES PLANNING AND DESIGN</item>
+        <item>Applied Thermodynamics</item>
+        <item>Product Design AND Development</item>
+        <item>Organisational Behaviour</item>
+        <item>Theory of Machines</item>
+        <item>Tool Engineering</item>
+    </string-array>
+    <string-array name="semester66">
+        <item>SIMULATION MODELING AND ANALYSIS</item>
+        <item>FINANCIAL ACCOUNTS AND COSTING</item>
+        <item>PRODUCTION AND OPERATIONS MANAGEMENT</item>
+        <item>SUPPLY CHAIN AND LOGISTIC MANAGEMENT</item>
+        <item>Fluid Mechanics  Software Engineering AND Management</item>
+        <item>Data Base Management System</item>
+        <item>World Class Manufacturing</item>
+        <item>Industrial Pollution Control</item>
+        <item>Advanced Operations Research</item>
+        <item>Automation In Manufacturing</item>
+        <item>Marketing Management</item>
+        <item>Hydraulics and Pneumatics</item>
+    </string-array>
+    <string-array name="semester76">
+
+        <item>ENTERPRISE RESOURCE PLANNING</item>
+        <item>TOTAL QUALITY MANAGEMENT</item>
+        <item>Design for Manufacturability</item>
+        <item>Industrial Design and Ergonomics</item>
+        <item>System Dynamics</item>
+        <item>Non-Conventional Machining</item>
+        <item>Combinatorial Optimization</item>
+        <item>Artificial Intelligence and Expert Systems</item>
+        <item>Theory of Constraints</item>
+        <item>Industrial Experimentation</item>
+        <item>Lean Manufacturing</item>
+        <item>Management Information System</item>
+        <item>Human Resource Management</item>
+        <item>Reliability Engineering</item>
+        <item>Data Base Management System</item>
+        <item>Human Resource Management</item>
+        <item>Operations Research</item>
+        <item>Product Design and Development</item>
+        <item>Automation in Manufacturing</item>
+        <item>Six Sigma</item>
+        <item>Simulation Modelling and Analysis</item>
+
+
+    </string-array>
+    <string-array name="semester86">
+        <item>Technology Management</item>
+        <item>Value Engineering</item>
+        <item>Six Sigma</item>
+        <item>Retail and Service Management</item>
+        <item>Enterprise Resource Planning</item>
+        <item>Operations Research </item>
+        <item>Advanced Operations Research</item>
+        <item>Marketing Management</item>
+        <item>Management and Entrepreneurship</item>
+        <item>PROJECT MANAGEMENT</item>
+
+    </string-array>
+    <string name="dept7">Civil Engineering</string>
+    <string-array name="semester17">
+        <item>Engineering Mathematics I</item>
+        <item>Engineering Chemistry </item>
+        <item>Basic Electrical Engineering</item>
+        <item>Elements of Engineering Drawing</item>
+        <item>Engineering Mechanics</item>
+        <item>EnvironmentalStudies</item>
+        <item>Constitution of India and Professional Ethics</item>
+    </string-array>
+    <string-array name="semester27">
+        <item>Engineering Mathematics II</item>
+        <item>Engineering Physics</item>
+        <item>Elements Of Electronics Engineering</item>
+        <item>Elements Of Mechanical Engineeing</item>
+        <item>C Programming</item>
+        <item>Biology For Engineers</item>
+        <item>Personality Development And Communiction</item>
+    </string-array>
+    <string-array name="semester37">
+        <item>Engineering Maths –III</item>
+        <item>Building Materials and Construction</item>
+        <item>Engineering Geology</item>
+        <item>Basic Surveying</item>
+        <item>Mechanics of Fluids</item>
+        <item>Strength of Materials</item>
+    </string-array>
+    <string-array name="semester47">
+        <item>Engineering Maths –IV</item>
+        <item>Structural Analysis</item>
+        <item>Concrete Technology</item>
+        <item>Advanced Surveying</item>
+        <item>Soil Mechanics</item>
+        <item>Hydraulics and Hydraulic Machines</item>
+        <item>Building Planning and Drawing</item>
+    </string-array>
+    <string-array name="semester57">
+        <item>Indeterminate Structural Analysis</item>
+        <item>Water Supply Engineering</item>
+        <item>Foundation Engineering</item>
+        <item>Highway Engineering</item>
+        <item>Hydrology and Water Resources</item>
+        <item>Cad Lab</item>
+
+    </string-array>
+    <string-array name="semester67">
+        <item>Design Of Steel Structures</item>
+        <item>Design of RC Structure</item>
+        <item>Waste water Treatment</item>
+        <item>Extensive survey project</item>
+        <item>Software Applications lab</item>
+        <item>Ground Improvement Technique</item>
+        <item>Solid Waste Management</item>
+        <item>Pavement Materials and Construction</item>
+        <item>Earth Retaining Structures</item>
+        <item>Structural Masonry</item>
+        <item>Pavement Design</item>
+        <item>Irrigation and hydraulic structures</item>
+    </string-array>
+    <string-array name="semester77">
+
+        <item>Remote Sensing and Geographical Information System</item>
+        <item>Finite Element Method of Analysis</item>
+        <item>Design and Drawing of RCC and Steel Structures</item>
+        <item>Analysis and Design of Pre-stressed concrete members</item>
+        <item>Quantity Surveying and Costing</item>
+        <item>Transportation Systems</item>
+        <item>Advanced Design of RC Structures</item>
+        <item>Advanced Foundation Design</item>
+        <item>Geometric Design of Roads</item>
+        <item>Industrial Waste Water Treatment</item>
+        <item>Design and drawing of Bridges and Irrigation Structure</item>
+        <item>Structural Dynamics</item>
+
+    </string-array>
+    <string-array name="semester87">
+        <item>Occupational Safety and Health Administration</item>
+        <item>Construction Project management, finance and professional ethics (HSS CORE)</item>
+        <item>Earthquake Resistant Design of Structures</item>
+        <item>Environmental Impact Assessment</item>
+        <item>Geotechnical Earthquake Engineering</item>
+        <item>Integrated Watershed Management</item>
+        <item>Reinforced Earth Structures</item>
+        <item>Urban Transport Planning</item>
+        <item>Law for Engineers</item>
+        <item>Basics of marketing and sales</item>
+        <item>Economics for Engineers</item>
+        <item>Management and Entrepreneurship</item>
+
+
+    </string-array>
+    <string name="dept8">Electrical and Electronics Engineering</string>
+    <string-array name="semester18">
+        <item>Engineering Mathematics I</item>
+        <item>Engineering Chemistry </item>
+        <item>Basic Electrical Engineering</item>
+        <item>Elements of Engineering Drawing</item>
+        <item>Engineering Mechanics</item>
+        <item>EnvironmentalStudies</item>
+        <item>Constitution of India and Professional Ethics</item>
+    </string-array>
+    <string-array name="semester28">
+        <item>Engineering Mathematics II</item>
+        <item>Engineering Physics</item>
+        <item>Elements Of Electronics Engineering</item>
+        <item>Elements Of Mechanical Engineeing</item>
+        <item>C Programming</item>
+        <item>Biology For Engineers</item>
+        <item>Personality Development And Communiction</item>
+    </string-array>
+    <string-array name="semester38">
+        <item>Advanced Engineering Mathematics</item>
+        <item>Linear Circuit Analysis</item>
+        <item>Analog Microelectronics</item>
+        <item>Digial Electronics</item>
+        <item>Field Theory</item>
+        <item>Simulation Lab - 1</item>
+    </string-array>
+    <string-array name="semester48">
+        <item>Discrete Mathematics and Probabilty</item>
+        <item>Analog Integrated Circuits</item>
+        <item>Microcontrollers</item>
+        <item>Control Systems</item>
+        <item>Signals and Systems</item>
+        <item>Simulation Lab - 2</item>
+
+    </string-array>
+    <string-array name="semester58">
+        <item>Transmission and Distribution</item>
+        <item>Electrical Machines - 1</item>
+        <item>Electrical Energy Systems</item>
+        <item>Digital Signal Processing</item>
+        <item>Measurements and Instrumentation</item>
+        <item>Measurements and Controls Lab</item>
+        <item>Embedded System Design</item>
+        <item>Design and Implementation of Digital Systems using HDL</item>
+        <item>C++ for Engineering Applications</item>
+        <item>Electrical Installation, Testing, Commissioning and Maintenance </item>
+    </string-array>
+    <string-array name="semester68">
+        <item>Power Systems - 1</item>
+        <item>Electrical Machines - 2</item>
+        <item>Power Electronics - 1</item>
+        <item>Modern Control Theory</item>
+        <item>Utilization of Electrical Power</item>
+        <item>Circuit Design using VLSI</item>
+        <item>Communication Systems</item>
+        <item>Electric Machine Design</item>
+        <item>Displays for Embedded Systems</item>
+        <item>Cryptography and Network Security</item>
+        <item>Bio-Mems</item>
+        <item>Advanced Medical Image Processing</item>
+        <item>Data Structures and Algorithms</item>
+        <item>Sensor Technology</item>
+        <item>VLSI Testing and Design for Testability</item>
+        <item>Physical Design</item>
+        <item>Probability and Random Process</item>
+        <item>Advanced Microcontrollers and Applications</item>
+        <item>Electrical and Electronic Engineering Materials</item>
+        <item>Electromagnetic Compatibility</item>
+        <item>Modern Control Theory</item>
+        <item>Robotics</item>
+        <item>Industrial IOT</item>
+    </string-array>
+    <string-array name="semester78">
+        <item>Switchgear and Protection</item>
+        <item>Power System - 2</item>
+        <item>Power Electronics - 2</item>
+        <item>HV Engineering</item>
+        <item>Electrical Power Quality</item>
+        <item>Control of Electric Drives</item>
+        <item>Computer Communication and Networking for Electrical Engineering Applications</item>
+        <item>Solar and Wind Energy Conversion Systems* PLC and SCADA</item>
+        <item>Electrical Power and Energy Management Systems</item>
+        <item>Micro and Smart System</item>
+        <item>Project for community service</item>
+
+
+    </string-array>
+    <string-array name="semester88">
+        <item>Sustainable Practices in Electrical Engineering</item>
+        <item>Project Management and Finance </item>
+        <item>Intellectual Property Rights and Cyber Law</item>
+        <item>Operations Research</item>
+    </string-array>
+    <string name="dept9">Electronics and Instrumentation Engineering</string>
+    <string-array name="semester19">
+        <item>Engineering Mathematics I</item>
+        <item>Engineering Chemistry </item>
+        <item>Basic Electrical Engineering</item>
+        <item>Elements of Engineering Drawing</item>
+        <item>Engineering Mechanics</item>
+        <item>EnvironmentalStudies</item>
+        <item>Constitution of India and Professional Ethics</item>
+    </string-array>
+    <string-array name="semester29">
+        <item>Engineering Mathematics II</item>
+        <item>Engineering Physics</item>
+        <item>Elements Of Electronics Engineering</item>
+        <item>Elements Of Mechanical Engineeing</item>
+        <item>C Programming</item>
+        <item>Biology For Engineers</item>
+        <item>Personality Development And Communiction</item>
+    </string-array>
+    <string-array name="semester39">
+        <item>Advanced Engineering Mathematics</item>
+        <item>Linear Circuit Analysis</item>
+        <item>Analog Microelectronics</item>
+        <item>Digial Electronics</item>
+        <item>Measurements and Instrumentation</item>
+        <item>Simulation Techniques</item>
+    </string-array>
+    <string-array name="semester49">
+        <item>Discrete Mathematics and Probabilty</item>
+        <item>Analog Integrated Circuits</item>
+        <item>Microcontrollers</item>
+        <item>Control Systems</item>
+        <item>Signals and Systems</item>
+        <item>PCB Design</item>
+
+    </string-array>
+    <string-array name="semester59">
+        <item>Process Control</item>
+        <item>Sensors and Transducers</item>
+        <item>Digital Signal Processing</item>
+        <item>Electro-Magnetic field Theory</item>
+        <item>Communication Systems</item>
+        <item>laser and optical fiber instrumentation</item>
+        <item>power electronics</item>
+        <item>OOPs using C++</item>
+        <item>fundamentals of HDL</item>
+
+    </string-array>
+    <string-array name="semester69">
+        <item>Data Acquisation and Virtual Instrumentation</item>
+        <item>Algorithms and System Design</item>
+        <item>Signaling and Communication in Process Automation</item>
+        <item>Analytical Instrumentation</item>
+        <item>digital image processing</item>
+        <item>control system components</item>
+        <item>Digital system design using VHDL</item>
+        <item>Biomedical instrumentation</item>
+        <item>Operating system</item>
+        <item>Cryptography and Network Security</item>
+        <item>Bio-Mems</item>
+        <item>Fiber Optics and Laser Medicine</item>
+        <item>Data Structures and Algorithms</item>
+        <item>Sensor Technology</item>
+        <item>Displays for embedded systems</item>
+        <item>VLSI Testing and Design for Testability</item>
+        <item>Physical Design</item>
+        <item>Probability and Random Process</item>
+        <item>Advanced Microcontrollers and Applications</item>
+        <item>Electrical and Electronic Engineering Materials</item>
+        <item>Electromagnetic Compatibility</item>
+        <item>Modern Control Theory</item>
+        <item>Robotics</item>
+        <item>Industrial IOT</item>
+    </string-array>
+    <string-array name="semester79">
+        <item>Fundamentals of VLSI</item>
+        <item>Automation in Process Control</item>
+        <item>Modern Control Theory</item>
+        <item>Industrial Instrumentation</item>
+        <item>Aircraft Instrumentation</item>
+        <item>Remote Sensing and Telemetry</item>
+        <item> computer vision</item>
+        <item>MEMs and sensors</item>
+        <item>Projects foe community service</item>
+
+    </string-array>
+    <string-array name="semester89">
+        <item>Micro-sensing Networks for Sustainable Cities</item>
+        <item>Project Management and Finance </item>
+        <item>Intellectual Property Rights and Cyber Law</item>
+        <item>IPR and Cyber Law</item>
+    </string-array>
+    <string name="dept10">Medical Electronics</string>
+    <string-array name="semester110">
+        <item>Engineering Mathematics I</item>
+        <item>Engineering Chemistry </item>
+        <item>Basic Electrical Engineering</item>
+        <item>Elements of Engineering Drawing</item>
+        <item>Engineering Mechanics</item>
+        <item>EnvironmentalStudies</item>
+        <item>Constitution of India and Professional Ethics</item>
+    </string-array>
+    <string-array name="semester210">
+        <item>Engineering Mathematics II</item>
+        <item>Engineering Physics</item>
+        <item>Elements Of Electronics Engineering</item>
+        <item>Elements Of Mechanical Engineeing</item>
+        <item>C Programming</item>
+        <item>Biology For Engineers</item>
+        <item>Personality Development And Communiction</item>
+    </string-array>
+    <string-array name="semester310">
+        <item>Advanced Engineering Mathematics</item>
+        <item>Linear Circuit Analysis</item>
+        <item>Analog Microelectronics</item>
+        <item>Digial Electronics</item>
+        <item>Introduction to Human Anatomy and Physiology</item>
+        <item>Biomedical Signals and Measurement</item>
+    </string-array>
+    <string-array name="semester410">
+        <item>Discrete Mathematics and Probabilty</item>
+        <item>Analog Integrated Circuits</item>
+        <item>Microcontrollers</item>
+        <item>Control Systems</item>
+        <item>Signals and Systems</item>
+        <item>Biomedical Ethics and Standards</item>
+
+    </string-array>
+    <string-array name="semester510">
+        <item>Biomedical Instrumentation</item>
+        <item>Biomechanics and Rehabilitation</item>
+        <item>Digital Signal Processing</item>
+        <item>Embedded System Design</item>
+        <item>Medical Physics</item>
+        <item>Pattern Recognition and Neural Networks</item>
+        <item>OOP’s with C++ for Medical Applications</item>
+        <item>Brain Computer Interface</item>
+
+
+    </string-array>
+    <string-array name="semester610">
+        <item>Medical Image Processing</item>
+        <item>Bio-medical Signal Processing</item>
+        <item>Bio-Materials and Artificial Organs</item>
+        <item>Medical Device Development</item>
+        <item>Medical Imaging Modalities</item>
+        <item>control system components</item>
+        <item>Bio-Mems</item>
+        <item>Medical Informatics</item>
+
+    </string-array>
+    <string-array name="semester710">
+        <item>Medical Device Testing on Sustainability</item>
+        <item>Clinical Data Analytics</item>
+        <item>Biomedical Circuits with VLSI</item>
+        <item>Mobile Health</item>
+        <item>Image and Signal Processing for Networked E-health Applications</item>
+        <item>Lasers and Fibre Optics in Medicine</item>
+        <item>Advanced Medical Image Processing</item>
+        <item>MEMs and sensors</item>
+        <item>Projects foe community service</item>
+
+    </string-array>
+    <string-array name="semester810">
+        <item>Project Management and Finance</item>
+        <item>Intellectual Property Rights and Cyber Law</item>
+        <item>Machine Learning</item>
+        <item>SoC for biomedical applications</item>
+        <item>HSS Elective course on Life Skills</item>
+
+    </string-array>
+
+</resources>

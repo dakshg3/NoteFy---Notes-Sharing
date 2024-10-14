@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mycardview"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardUseCompatPadding="true"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="5dp"
+
+    >
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/img1"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center_vertical|left"
+        app:civ_border_color="@color/colorAccent"
+        app:civ_border_width="3dp"
+        android:layout_margin="7dp"/>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/img2"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center_vertical|right"
+        app:civ_border_color="@color/colorAccent"
+        app:civ_border_width="3dp"
+        android:layout_margin="7dp"/>
+    <TextView
+        android:layout_gravity="right"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:id="@+id/Author1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="50dp"
+        android:text="Name" />
+
+    <TextView
+        android:layout_gravity="left"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:id="@+id/Author2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="30dp"
+        android:text="Name" />
+    <TextView
+        android:layout_gravity="center_vertical|right"
+        android:textAlignment="center"
+        android:id="@+id/desc1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="10dp"
+        android:text="Desc" />
+    <TextView
+        android:layout_gravity="center_vertical|left"
+        android:textAlignment="center"
+        android:id="@+id/desc2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:text="Desc" />
+
+
+</android.support.v7.widget.CardView>
